@@ -6,5 +6,3 @@ AD wprowadzenie		https://youtu.be/9VPMd-WV1lk
 AD obiekty		https://youtu.be/vmS0wOhIGUw
 Administracja 	1	https://youtu.be/nuBq0zAEczY
 GPO1			https://youtu.be/RtRkek9H5Ec
-GPO2			https://youtu.be/4mdaokm_kDk
-DNS			https://youtu.be/KYwkWAwLDbg
