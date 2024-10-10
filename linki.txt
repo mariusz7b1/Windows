@@ -6,3 +6,5 @@ AD wprowadzenie		https://youtu.be/9VPMd-WV1lk
 AD obiekty		https://youtu.be/vmS0wOhIGUw
 Administracja 	1	https://youtu.be/nuBq0zAEczY
 GPO1			https://youtu.be/RtRkek9H5Ec
+DHCP 			https://youtu.be/Ur7qDqv5EVM
+DHCP FailOver		https://youtu.be/YMetQSuCNXM
