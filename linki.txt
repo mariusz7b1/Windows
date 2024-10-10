@@ -9,4 +9,4 @@ GPO1			https://youtu.be/RtRkek9H5Ec
 DHCP 			https://youtu.be/Ur7qDqv5EVM
 DHCP FailOver		https://youtu.be/YMetQSuCNXM
 
-Fail Over Cluser      https://youtu.be/6EdkJO25j1A
+Fail Over Cluser        https://youtu.be/6EdkJO25j1A
